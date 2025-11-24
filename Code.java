@@ -1,7 +1,7 @@
 import java.util.*;
 import org.json.JSONObject;
 
-public class PolynomialFromRoots {
+public class Code {
 
     // Function to multiply two polynomials
     private static int[] multiply(int[] poly1, int[] poly2) {
